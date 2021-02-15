@@ -70,7 +70,7 @@ window.onload = function(){
             }
         }
     }
-    
+  
     updateSquarecolor();
 
     var moveable = false;
@@ -1061,7 +1061,8 @@ window.onload = function(){
                     moveable = false;
                 }
             }
-
+            
+            
             updateSquarecolor();
             
             for(var x = 0; x < 64; x++){
